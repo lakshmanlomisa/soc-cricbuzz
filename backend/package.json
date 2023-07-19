@@ -1,0 +1,28 @@
+{
+  "name": "iitcricinfo",
+  "version": "1.0.0",
+  "description": "cricketinfoapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwerty140/Lab-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwerty140/Lab-4/issues"
+  },
+  "homepage": "https://github.com/qwerty140/Lab-4#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "json-to-table": "^4.2.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "reactstrap": "^9.0.1"
+  }
+}
